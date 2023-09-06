@@ -1,0 +1,135 @@
+#contenido{
+    margin: 0;
+    background-color: orange;
+    width: 100%;
+    color: black;
+}
+
+header{
+    width: 100%;
+    height: 300px;
+    background-color: blueviolet;
+}
+
+#contenido{
+    width: 100%;
+    height: 600px;
+    background-color: aquamarine;
+}
+
+#ejercicio1{
+    width: 24%;
+    height: 100%;
+    border: 2px solid red;
+    float: left;
+}
+  
+
+#ejercicio1 h2{
+    color: red;
+    text-align: center;
+}
+
+#ejercicio1 p{
+    font-size: 11pt;
+    color: darkgray;
+    text-align: left;
+}
+
+#ejercicio2{
+    width: 24%;
+    height: 100%;
+    border: 2px solid red;
+    float: left;
+}
+  
+
+#ejercicio2 h2{
+    color: red;
+    text-align: center;
+}
+
+#ejercicio2 p{
+    font-size: 11pt;
+    color: darkgray;
+    text-align: left;
+}
+
+
+#ejercicio3{
+    width: 24%;
+    height: 100%;
+    border: 2px solid red;
+    float: left;
+}
+  
+
+#ejercicio3 h2{
+    color: red;
+    text-align: center;
+}
+
+#ejercicio3 p{
+    font-size: 11pt;
+    color: darkgray;
+    text-align: left;
+}
+
+
+#ejercicio4{
+    width: 24%;
+    height: 100%;
+    border: 2px solid red;
+    float: left;
+}
+  
+
+#ejercicio4 h2{
+    color: red;
+    text-align: center;
+}
+
+#ejercicio4 p{
+    font-size: 11pt;
+    color: darkgray;
+    text-align: left;
+}
+
+.respuestas{
+    width: 100%;
+    align-content: center;
+}
+
+#respuesta1{
+    text-align: center;
+    color: red;
+    font-weight: bold;
+    font-size: 14pt;
+}
+
+#respuesta2{
+    text-align: center;
+    color: red;
+    font-weight: bold;
+    font-size: 14pt;
+}
+
+#respuesta3{
+    text-align: center;
+    color: red;
+    font-weight: bold;
+    font-size: 14pt;
+}
+
+#respuesta4{
+    text-align: center;
+    color: red;
+    font-weight: bold;
+    font-size: 14pt;
+}
+
+footer{
+    width: 100%;
+    height: 180px;
+    background-color: brown;
+}
